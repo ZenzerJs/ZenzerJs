@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=ZenzerJs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20that%20stops%20needing%20you%20the%20moment%20it's%20built.&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3D,100:2E9EF7&height=200&section=header&text=ZenzerJs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20that%20stops%20needing%20you%20the%20moment%20it's%20built.&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 I'm Jayden. I study computer science at Laurier, but most of what I actually learn happens after the lecture ends — in repos where I make agents argue with each other, teach a webcam to read spellcasting gestures, or get a model to explain *why* a stock looks bad instead of just plotting a red line.
@@ -118,5 +118,5 @@ Interactive venue + travel planner for the 2026 World Cup.
 <a href="https://www.linkedin.com/in/jayden-saha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://jaydens-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0B1E3D&height=100&section=footer" width="100%"/>
 </div>
