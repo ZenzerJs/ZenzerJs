@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3D,100:2E9EF7&height=200&section=header&text=ZenzerJs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20that%20stops%20needing%20you%20the%20moment%20it's%20built.&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
-I'm Jayden, a Computer Science student at Wilfrid Laurier University building fullstack applications, backend systems, and AI-powered developer tools.
+I'm Jayden, a Computer Science student at Wilfrid Laurier University building full-stack applications, robust backend systems, and local-first AI developer tools.
 
-Most of my projects start with a repetitive workflow or fragile handoff. I turn it into software with clear boundaries, secure integrations, and tests that make the system easier to trust. I especially enjoy building tools that can run locally when sensitive data should not leave the machine.
+Most of my projects start where repetitive workflows or fragile handoffs break down. I turn them into reliable systems with clear boundaries, access controls, audit logging, and automated test coverage. I focus heavily on local-first AI architectures where sensitive data stays on the machine, and I measure agent systems empirically with verifiable token economics rather than trusting vibes.
 
-Currently focused on: **fullstack development** with Next.js and TypeScript · **backend workflows** with Prisma, FastAPI, and REST APIs · **local-first AI** with Ollama and tool-calling systems · **testing and reliability** with Vitest and Playwright.
+Currently focused on: **full-stack engineering** with Next.js and TypeScript · **backend architecture** with Prisma, FastAPI, and REST APIs · **local-first AI & agent systems** with Ollama, LangGraph, and context isolation · **testing & reliability** with Vitest and Playwright.
 
 <br>
 
@@ -17,41 +17,41 @@ Currently focused on: **fullstack development** with Next.js and TypeScript · *
 <td width="50%" valign="top">
 
 🛠️ **[ResumeForge](https://github.com/ZenzerJs/ResumeForge)**
-Local-first resume workspace with evidence-backed tailoring, deterministic job-description parsing, ATS evaluation, Typst-to-PDF rendering through WASM, safe AI patches, and DOCX/PDF export.
+Local-first, AI-native resume workspace with a verified Evidence Bank, deterministic ATS scoring, Typst-to-PDF rendering via WASM, and 524 passing tests across 97 files.
 
 </td>
 <td width="50%" valign="top">
 
-📈 **[Stock Analyst Agent](https://github.com/ZenzerJs/stock-analyst-agent)**
-Fullstack AI research application that combines financial statements, market data, analyst sentiment, earnings, and SEC filings with source-backed output, server-side key protection, fallback routing, and rate-limit handling.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-⚽ **[WC26 Travel Mapper](https://github.com/ZenzerJs/wc26-travel-mapper)**
-Interactive travel planner for the 2026 World Cup with routing across 16 North American host cities, Mapbox directions, third-party data normalization, server-side API routes, and rate-limit handling.
-
-</td>
-<td width="50%" valign="top">
-
-🤖 **[Omni-Architect](https://github.com/ZenzerJs/Omni-Architect)**
-LangGraph and Groq multi-agent orchestration system that decomposes complex requests, coordinates specialized agents, manages shared state, and traces multi-step execution.
+🧪 **[Ai-Lab](https://zenzerjs.github.io/Ai-Lab/)** · [GitHub](https://github.com/ZenzerJs/Ai-Lab)
+Empirical agentic coding harness and benchmarking framework demonstrating a 64.5% measured cost reduction across 26 A/B runs, sub-agent context isolation, and public SQLite telemetry.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-🧙 **[Arcane-Hand-Casting](https://github.com/ZenzerJs/Arcane-Hand-Casting)**
-MediaPipe hand tracking and a custom WebGL renderer combined into a 3D spellcasting arena, connecting real-time computer vision with interactive graphics.
+📈 **[Stock Analyst Agent](https://stock-analyst-agent-ashen.vercel.app/)** · [GitHub](https://github.com/ZenzerJs/stock-analyst-agent)
+Full-stack financial research engine synthesizing SEC filings, market data, and analyst sentiment via LangGraph and FastAPI, with fallback routing and protected server-side credentials.
 
 </td>
 <td width="50%" valign="top">
 
-📊 **[ML-Stock-Simulator](https://github.com/ZenzerJs/ML-Stock-Simulator)**
-Machine-learning stock simulator for exploring multi-horizon forecasts and model behavior across commonly traded equities.
+🎨 **[Sia-Portfolio](https://sia-portfolio-ten.vercel.app/)** · [GitHub](https://github.com/ZenzerJs/Sia-Portfolio)
+Client creative portfolio built with Next.js 15 and React 19, featuring scroll-driven GSAP animations, Lenis smooth scrolling, and reduced-motion accessibility.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+⚽ **[WC26 Travel Mapper](https://wc26-travel-mapper.vercel.app)** · [GitHub](https://github.com/ZenzerJs/wc26-travel-mapper)
+Interactive travel planner for the 2026 FIFA World Cup across 16 North American host cities, featuring Mapbox GL JS routing and server-side rate-limit handling.
+
+</td>
+<td width="50%" valign="top">
+
+🧙 **[Arcane-Hand-Casting](https://arcane-hand-casting.vercel.app/)** · [GitHub](https://github.com/ZenzerJs/Arcane-Hand-Casting)
+Browser spell-casting arena connecting MediaPipe real-time hand tracking with custom WebGL graphics for zero-latency client-side gesture recognition.
 
 </td>
 </tr>
@@ -80,26 +80,26 @@ Machine-learning stock simulator for exploring multi-horizon forecasts and model
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-**AI / ML**
+**AI / ML & Systems**
 <br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
 
-**Testing / Engineering**
+**Testing & Tooling**
 <br>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-**Infra**
+**Infra & Storage**
 <br>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
