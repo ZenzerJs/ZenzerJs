@@ -23,7 +23,7 @@ Local-first, AI-native resume workspace with an evidence-backed tailoring pipeli
 <td width="50%" valign="top">
 
 🧪 **[Ai-Lab](https://zenzerjs.github.io/Ai-Lab/)** · [GitHub](https://github.com/ZenzerJs/Ai-Lab)
-Benchmarking framework that measures agentic coding cost and quality across A/B runs, with sub-agent context isolation and public SQLite telemetry.
+Benchmarking framework that measures agentic coding cost and quality, demonstrating a 64.5% measured cost reduction across 26 A/B runs, with sub-agent context isolation and public SQLite telemetry.
 
 </td>
 </tr>
