@@ -65,10 +65,8 @@ Multi-agent AI orchestration: visual brief → structured specification → gene
 
 <br>
 
-## ⚙️ Stack
-
 <div align="center">
-  <img src="skills.svg" alt="Languages: Python, TypeScript, JavaScript, Java, Swift — Frameworks: Next.js, React, FastAPI, Node.js, Tailwind — AI/ML: LangGraph, LangChain, Ollama, PyTorch, MediaPipe — Testing: Playwright, Vitest, Typst, GH Actions, Docker — Infra: SQLite, Prisma, Vercel" width="546"/>
+  <img src="skills.svg" alt="Tech stack: Python, TypeScript, JavaScript, Java, Swift, HTML/CSS, Next.js, React, FastAPI, Node.js, Tailwind, LangGraph, LangChain, Ollama, PyTorch, MediaPipe, Playwright, Vitest, Typst, GitHub Actions, Docker, SQLite, Prisma, Vercel" width="864"/>
 </div>
 
 <br>
