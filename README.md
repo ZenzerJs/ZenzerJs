@@ -17,7 +17,7 @@ Currently focused on: **full-stack engineering** with Next.js and TypeScript · 
 <td width="50%" valign="top">
 
 🛠️ **[ResumeForge](https://github.com/ZenzerJs/ResumeForge)**
-AI-assisted resume workspace with a protected master resume, Evidence Bank, mechanical guardrails against fabricated experience, deterministic ATS scoring, and in-browser Typst-to-PDF compilation via WASM. 750+ passing tests across unit, integration, and E2E suites.
+AI-assisted resume workspace with a protected master resume, Evidence Bank, mechanical guardrails against fabricated experience, deterministic ATS scoring, and in-browser Typst-to-PDF compilation via WASM. 1,300+ passing tests (1,146 Vitest + 158 Playwright E2E) across unit, integration, and browser suites.
 
 </td>
 <td width="50%" valign="top">
