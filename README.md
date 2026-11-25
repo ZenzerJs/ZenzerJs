@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3D,100:2E9EF7&height=200&section=header&text=ZenzerJs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20tools%2C%20then%20try%20to%20break%20my%20own%20conclusions.&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
-I'm Jayden, a Computer Science student at Wilfrid Laurier University building full-stack applications and AI developer tools.
+I'm Jayden, a Computer Science student building full-stack applications and AI developer tools.
 
 Most of my projects start with a repetitive workflow or a claim I can't verify. I build the tool, measure whether it actually works, and publish the result — even when the numbers aren't flattering.
 
